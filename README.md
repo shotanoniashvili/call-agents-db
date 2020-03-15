@@ -1,4 +1,4 @@
-# call-agents-db
+# call-operators-db
 A tiny implementation of made calls database in native php, with user roles (managers and call agents)
 
 1) Configure PROJECT_ROOT in index.php and set file path of project
